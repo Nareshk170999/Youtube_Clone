@@ -12,7 +12,7 @@ Welcome to my YouTube Clone project! In this project, I've created a replica of 
 
 ## Getting Started
 
-To explore the YouTube Clone project, simply [click here](https://nareshk170999.github.io/Youtube_Clone/) and sample video-watching experience.
+To explore the YouTube Clone project, simply [click here](https://nareshk170999.github.io/Youtube_Clone/) and some video-watching experience.
 
 If you have any suggestions or improvements.
 
