@@ -14,7 +14,7 @@ Welcome to my YouTube Clone project! In this project, I've created a replica of 
 
 To explore the YouTube Clone project, simply [click here](https://nareshk170999.github.io/Youtube_Clone/) and sample video-watching experience.
 
-Feel free to fork this repository and make your own modifications. If you have any suggestions or improvements, don't hesitate to open an issue or pull request. Let's make this project even better together!
+If you have any suggestions or improvements.
 
 ## Screenshots
 
