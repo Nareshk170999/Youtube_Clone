@@ -21,6 +21,3 @@ If you have any suggestions or improvements.
 ![Screenshot 1](screenshots/screenshot1.png)
 
 
-## License
-
-[Here](https://nareshk170999.github.io/Youtube_Clone/)
